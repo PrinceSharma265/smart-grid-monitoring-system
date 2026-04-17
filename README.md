@@ -202,6 +202,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
--   [GitHub](https://github.com/PrinceSharma265))
--   [Instagram](https://www.instagram.com/_princesharma192/))
+-   [GitHub](https://github.com/PrinceSharma265)
+-   [Instagram](https://www.instagram.com/_princesharma192/)
 -   [LinkedIn](https://www.linkedin.com/in/prince-sharma-905616294/)
